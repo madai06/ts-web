@@ -1,0 +1,7 @@
+npm install typescript ts-node
+npm install @types/node -D
+
+npm i jest ts-jest
+npm i @types/jest
+
+npx ts-jest config:init
